@@ -24,7 +24,7 @@
     "require": {
         "php": ">=5.3.3",
         "phpunit/php-token-stream": "1.*",
-        "symfony/console": "3.*"
+        "symfony/console": "3.*|2.7.*"
     },
 
     "require-dev": {
